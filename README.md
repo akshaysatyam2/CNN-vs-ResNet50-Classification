@@ -1,4 +1,4 @@
-# CNN vs ResNet50: Drone Classification
+# Comparative Study of CNN vs. Fine-tuned ResNet50
 
 This project presents a comparative study between two deep learning models—Custom Convolutional Neural Networks (CNN) and Fine-tuned ResNet50—for the task of drone image classification. The project includes the code implementation, model training, evaluation, and analysis using Python and deep learning frameworks.
 
